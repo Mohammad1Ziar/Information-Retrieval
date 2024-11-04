@@ -1,5 +1,5 @@
 Week,Day(s),Task,Details
-Week 1,Days 1-2,Study NLP basics,Focus on basic NLP concepts relevant to text processing. Suggested source: Fravadars NLP courses.
+Week 1,Days 1-2 (Done) ,Study NLP basics,Focus on basic NLP concepts relevant to text processing. Suggested source: Fravadars NLP courses.
 Week 1,Days 3-4,Learn Data Augmentation techniques for text,"Learn text data augmentation techniques, e.g., synonym replacement, structure modification."
 Week 1,Days 5-7,Read related survey papers,Review 2-3 key survey papers on Data Augmentation and Keyword Extraction.
 Week 2,Days 8-9,Explore similar GitHub projects for Data Augmentation and Keyword Extraction,Check out 2-3 similar GitHub repositories for implementation insights.
