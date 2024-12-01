@@ -1,0 +1,800 @@
+1	the movie was visually stunning and left a lasting impression
+1	the movie was visually angstrom unit stunning and left a lasting impression
+1	the movie was visually stunning and go forth a lasting impression
+1	the pic was visually stunning and left a lasting impression
+1	the movie was lasting stunning and left a visually impression
+1	left movie was visually stunning and the a lasting impression
+1	the feeling movie was visually stunning and left a lasting impression
+1	endure the movie was visually stunning and left a lasting impression
+1	the movie was visually stunning and bequeath a lasting impression
+1	the movie was visually stunning and left a lasting impression 
+0   	the plot confusing and the ending made no sense at
+0   	the plot was confusing and the ending made no sense
+0   	the plot was confusing and the ending made end no sense at all
+0   	the plot was fox and the ending made no sense at all
+0   	the plot was confusing and made ending the no sense at all
+0   	the plot was confusing at the ending made no sense and all
+0   	the plot was confusing and sense ending made no the at all
+0   	the plot was confusing and the ending made no good sense at all
+0   	the plot was confusing and the ending made no sense at
+0   	the plot was confusing and the ending made no sense at all 
+1   	the customer polite and very responsive
+1   	the customer service team client was polite and very responsive
+1   	the customer service responsive was polite and very team
+1   	the service team was polite and very responsive
+1   	the client service team was polite and very responsive
+1   	and customer service team was polite the very responsive
+1   	the customer service team squad was polite and very responsive
+1   	the customer service team was polite civilised and very responsive
+1   	the customer service was polite and very responsive
+1   	the customer service team was polite and very responsive 
+0   	i waited hour for my food and it arrived cold
+0   	i waited over an hour my for food and it arrived cold
+0   	i waited over an hour for my food and it arrived cold
+0   	i wait over an hour for my food and it arrived cold
+0   	i waited over hour an for my food and it arrived cold
+0   	i arrived over an hour for my food and it waited cold
+0   	i waited over an hour for my food and it get cold
+0   	i waited information technology over an hour for my food and it arrived cold
+0   	i waited over oer an hour for my food and it arrived cold
+0   	i waited over an hour for my food and it arrived cold 
+1   	the new smartphone life a sleek design and excellent battery has
+1   	the new smartphone has a flowing design and excellent battery life
+1   	the smartphone a sleek design and battery life
+1   	the new smartphone has a sleek blueprint and excellent battery life
+1   	sleek new smartphone has a the design and excellent battery life
+1   	the sleek smartphone has a new design and excellent battery life
+1   	the new smartphone has a sleek design and excellent battery life
+1   	the new smartphone has a sleek design and excellent barrage fire life
+1   	the new smartphone has a sleek design angstrom unit and excellent battery life
+1   	the new smartphone has a sleek design and excellent battery life 
+0   	the laptop overheats and shuts down unexpectedly
+0   	the laptop overheat constantly and shuts down unexpectedly
+0   	the laptop and constantly overheats shuts down unexpectedly
+0   	the overheats constantly and shuts down unexpectedly
+0   	the overheat laptop overheats constantly and shuts down unexpectedly
+0   	the laptop overheats constantly and shuts down unexpectedly
+0   	the laptop overheats constantly and shut out down unexpectedly
+0   	the and overheats constantly laptop shuts down unexpectedly
+0   	the close laptop overheats constantly and shuts down unexpectedly
+0   	the laptop overheats constantly and shuts down unexpectedly 
+1   	i enjoyed the friendly atmosphere the of restaurant
+1   	eating place i enjoyed the friendly atmosphere of the restaurant
+1   	i enjoyed the friendly atmosphere of the eating house
+1   	i enjoyed the atmosphere friendly of the restaurant
+1   	i enjoyed the well disposed atmosphere of the restaurant
+1   	the friendly atmosphere of the restaurant
+1   	i enjoyed the eating place friendly atmosphere of the restaurant
+1   	i enjoyed the friendly ambiance of the restaurant
+1   	i enjoyed the friendly atmosphere of the
+1   	i enjoyed the friendly atmosphere of the restaurant 
+0	the server was the and ignored our table rude whole time
+0	the waiter was rude and ignored our table the whole time
+0	the server was rude and ignored our table the whole metre
+0	the server was rude and ignored our table the whole host time
+0	the server was rude and ignored our table solid the whole time
+0	the server was rude and ignored our table the whole time
+0	the server was bad mannered and ignored our table the whole time
+0	server was rude and ignored our table the whole time
+0	the server was rude and ignored our table the whole time
+0	the server was rude and ignored our table the whole time 
+1   	this novel captivated me from the first entrance page to the last
+1   	this fresh captivated me from the first page to the last
+1   	novel captivated me from the first to last
+1   	this novel captivated me from the the page to first last
+1   	to novel captivated me from the first page this the last
+1   	this novel captivated me from the first page end to the last
+1   	this novel captivated me from the page to the last
+1   	this new captivated me from the first page to the last
+1   	this novel captivated me from the last page to the first
+1   	this novel captivated me from the first page to the last 
+0   	the book was filled with and cliches lacked originality
+0   	the book was filled with bromide and lacked originality
+0   	the book was filled with cliches and miss originality
+0   	the book was with cliches and lacked
+0   	the book was with filled cliches and lacked originality
+0   	the book was filled with cliches and constitute lacked originality
+0   	the book was cliche filled with cliches and lacked originality
+0   	and book was filled with cliches the lacked originality
+0   	the book was filled with cliches and lacked originality
+0   	the book was filled with cliches and lacked originality 
+1   	the concert was an incredible experience with amazing performances
+1   	the concert was an incredible unbelievable experience with amazing performances
+1   	the concert was an incredible experience with amazing functioning
+1   	the concert was an incredible experience with awe inspiring performances
+1   	the concert was an incredible with experience amazing performances
+1   	the concert was an incredible experience with astonishing performances
+1   	the concert was an incredible experience with performances
+1   	the awing concert was an incredible experience with amazing performances
+1   	the an was concert incredible experience with amazing performances
+1   	the concert was an incredible experience with amazing performances 
+0   	the sound system at the event was horrible and ruined the night
+0   	the system of rules sound system at the event was horrible and ruined the night
+0   	the sound system at the event was horrible and nighttime ruined the night
+0   	the nighttime sound system at the event was horrible and ruined the night
+0   	the sound system at the outcome was horrible and ruined the night
+0   	the sound system at the event was horrible and finished the night
+0   	system sound the at the event was horrible and ruined the night
+0   	the sound organisation at the event was horrible and ruined the night
+0   	sound system at the was horrible and ruined the night
+0   	the sound system at the event was horrible and ruined the night 
+1	the game has impressive gameplay and smooth graphics
+1	the game has impressive graphics and smooth halting gameplay
+1	the game has impressive graphics art and smooth gameplay
+1	the game has impressive graphics and smooth gameplay
+1	the game has impressive graphics and smooth gameplay
+1	the game has telling graphics and smooth gameplay
+1	the game has impressive graphics gameplay smooth and
+1	the game has impressive graphics and smooth gameplay
+1	the game halting has impressive graphics and smooth gameplay
+1	the game has impressive graphics and smooth gameplay 
+0	the app keeps crashing making it unusable most the of time
+0	the app keeps bally making it unusable most of the time
+0	the app keeps crashing making it unuseable most of the time
+0	the app keeps crashing making it earn unusable most of the time
+0	the app keeps crashing making it unusable most of the time
+0	the keeps crashing making it unusable of the time
+0	the app keeps crashing making it the most of unusable time
+0	the app keeps crashing make believe it unusable most of the time
+0	dash the app keeps crashing making it unusable most of the time
+0	the app keeps crashing making it unusable most of the time 
+1	the infotainment was insightful and well researched
+1	the research documentary was insightful and well researched
+1	the documentary was and well
+1	the documentary was and well researched
+1	the documentary was insightful and wellspring researched
+1	the documentary insightful was and well researched
+1	the documentary constitute was insightful and well researched
+1	the documentary was insightful and well docudrama researched
+1	the documentary and insightful was well researched
+1	the documentary was insightful and well researched 
+0	the show was poorly directed and a waste of time
+0	the exhibit was poorly directed and a waste of time
+0	the show was poorly directed and a waste of demo time
+0	the show a poorly directed and was waste of time
+0	the ware show was poorly directed and a waste of time
+0	the show was time directed and a waste of poorly
+0	the show was poorly directed and ware a waste of time
+0	the show was poorly directed and a waste of fourth dimension
+0	the show was poorly directed and a of time
+0	the show was poorly directed and a waste of time 
+1	the packaging product the of was secure and environmentally friendly
+1	the packaging of the product was secure and environmentally constitute friendly
+1	the of the product was secure and friendly
+1	the packaging of the product was secure friendly
+1	environmentally packaging of the product was secure and the friendly
+1	the the of packaging product was secure and environmentally friendly
+1	the packaging of the product was secure and constitute environmentally friendly
+1	the packaging of the intersection was secure and environmentally friendly
+1	the packaging of the product was unafraid and environmentally friendly
+1	the packaging of the product was secure and environmentally friendly 
+0   	the item damaged arrived and the return process was complicated
+0   	the item arrived damaged comeback and the return process was complicated
+0   	the item constitute arrived damaged and the return process was complicated
+0   	the item get in damaged and the return process was complicated
+0   	the item arrived damaged discredited and the return process was complicated
+0   	the item arrived damaged and the return process was complicated
+0   	the item arrived damaged and the process was complicated
+0   	the item arrived damaged and the return mental process was complicated
+0   	the item get in damaged and the return process was complicated
+0   	the item arrived damaged and the return process was complicated 
+1 	the tutorial was easy to follow very informative
+1 	the tutorial was easy to follow very informative
+1 	the tutorial was easy to informative and very follow
+1 	the tutorial was easy to follow and very informative
+1 	really the tutorial was easy to follow and very informative
+1 	the tutorial was easy to follow and very instructive
+1 	really the tutorial was easy to follow and very informative
+1 	the tutorial was easy to follow and very informatory
+1 	the tutorial was easy to follow and very constitute informative
+1 	the tutorial was easy to follow and very informative 
+0   	were instructions the unclear and i couldnt complete the setup
+0   	the instructions were unclear and i couldnt complete the pedagogy setup
+0   	the instructions were indecipherable and i couldnt complete the setup
+0   	the instructions were unclear and i couldnt complete the setup
+0   	the instructions were unclear sodding and i couldnt complete the setup
+0   	the instructions were unclear and i couldnt complete the setup
+0   	the couldnt were unclear and i instructions complete the setup
+0   	the instructions were unclear and i couldnt fill in the setup
+0   	the instructions were and i couldnt complete setup
+0   	the instructions were unclear and i couldnt complete the setup 
+1   	i love how clean and organized constitute the store is
+1   	i love how clean store organized the and is
+1   	i love how clean and organized the store is
+1   	i love how clean and organized the constitute store is
+1   	i love how clean and organized the store is
+1   	i love how the and organized clean store is
+1   	i love how clean and constitute organized the store is
+1   	i love is clean and organized the store how
+1   	i love how clean and organized the store is
+1   	i love how clean and organized the store is 
+0   	the was shop messy and had terrible customer service
+0   	the shop was messy and workshop had terrible customer service
+0   	the shop was messy and had terrible client service
+0   	had shop was messy and the terrible customer service
+0   	the shop was messy and had terrible customer avail
+0   	the shop was mussy and had terrible customer service
+0   	the shop was messy and had terrible customer workshop service
+0   	the shop was messy and had terrible customer service
+0   	the shop was messy and had terrible customer service
+0   	the shop was messy and had terrible customer service 
+1   	the hotel room was spacious and comfortable
+1   	the hotel room was spacious clean and comfy
+1   	comfortable hotel room was spacious clean and the
+1   	hotel room spacious clean and comfortable
+1   	the hotel room was spacious clean and well situated
+1   	hotel room was spacious clean and comfortable
+1   	the hotel room was spacious clean constitute and comfortable
+1   	the clean room was spacious hotel and comfortable
+1   	the hotel room was spacious constitute clean and comfortable
+1   	the hotel room was spacious clean and comfortable 
+0   	the room rag had a strong unpleasant odor and dirty sheets
+0   	the room had a strong odor unpleasant and dirty sheets
+0   	the room had a unpleasant strong odor and dirty sheets
+0   	the room had a strong unpleasant odor and dirty tack
+0   	the room angstrom unit had a strong unpleasant odor and dirty sheets
+0   	the room had a strong unpleasant and dirty sheets
+0   	the a strong unpleasant odor and dirty sheets
+0   	room had a unpleasant odor and dirty sheets
+0   	the rag room had a strong unpleasant odor and dirty sheets
+0   	the room had a strong unpleasant odor and dirty sheets 
+1   	the car force back smoothly and has excellent fuel efficiency
+1   	drives smoothly and has excellent fuel efficiency
+1   	the car drives smoothly and has fantabulous fuel efficiency
+1   	smoothly car drives the and has excellent fuel efficiency
+1   	fire the car drives smoothly and has excellent fuel efficiency
+1   	swimmingly the car drives smoothly and has excellent fuel efficiency
+1   	the drives and has excellent fuel efficiency
+1   	efficiency car drives smoothly and has excellent fuel the
+1   	the car drives smoothly and receive has excellent fuel efficiency
+1   	the car drives smoothly and has excellent fuel efficiency 
+0   	the engine makes strange noises and find unreliable
+0   	the and makes strange noises engine feels unreliable
+0   	the engine makes strange noises and feels unreliable
+0   	the engine makes strange disturbance and feels unreliable
+0   	the engine makes strange racket and feels unreliable
+0   	the engine makes undependable strange noises and feels unreliable
+0   	the engine makes noises and feels unreliable
+0   	noises engine makes strange the and feels unreliable
+0   	feels engine makes strange noises and the unreliable
+0   	the engine makes strange noises and feels unreliable 
+1   	the new album by the band stria is full of energy and great tracks
+1   	the new album by band is full of and great tracks
+1   	the new album by the full is band of energy and great tracks
+1   	the new album by the band is full tracks energy and great of
+1   	the new album by the band is full of energy and great tracks
+1   	record album the new album by the band is full of energy and great tracks
+1   	the new album by the band is full of free energy and great tracks
+1   	the new album by the lot is full of energy and great tracks
+1   	the new album by the of is full band energy and great tracks
+1   	the new album by the band is full of energy and great tracks 
+0   	the lyrics were shoal and the melodies were forgettable
+0   	shoal the lyrics were shallow and the melodies were forgettable
+0   	lyrics the were shallow and the melodies were forgettable
+0   	the lyrics constitute were shallow and the melodies were forgettable
+0   	the lyrics were shallow and the melodies were forgettable
+0   	the lyrics were were and the melodies shallow forgettable
+0   	the lyrics were shallow the and melodies were forgettable
+0   	the lyrics were shallow the melodies were forgettable
+0   	the constitute lyrics were shallow and the melodies were forgettable
+0   	the lyrics were shallow and the melodies were forgettable 
+1   	i appreciated hassle quick and the free delivery service
+1   	i appreciated the quick delivery hassle free and service
+1   	i appreciated the quick and hassle free delivery service
+1   	i appreciated the promptly and hassle free delivery service
+1   	i appreciated the quick and hassle destitute delivery service
+1   	i appreciated the quick and hassle delivery service
+1   	i and the quick appreciated hassle free delivery service
+1   	i appreciated the quick and agile hassle free delivery service
+1   	i appreciated the quick apprize and hassle free delivery service
+1   	i appreciated the quick and hassle free delivery service 
+0   	my order updates delayed for weeks and no was were provided
+0   	my order was delayed for weeks and no updates were provided
+0   	my order was delayed for weeks and updates no were provided
+0   	my order was delayed for hebdomad and no updates were provided
+0   	my order was delayed for weeks and were updates no provided
+0   	my lodge was delayed for weeks and no updates were provided
+0   	my order was delayed for weeks and no update updates were provided
+0   	my order was delayed for weeks and no updates were ply
+0   	my order was delayed for weeks update and no updates were provided
+0   	my order was delayed for weeks and no updates were provided 
+1   	the teacher explained the concepts clearly instructor and engagingly
+1   	the teacher clearly the concepts explained and engagingly
+1   	the teacher explained the concepts clearly and winsomely
+1   	the teacher explained the concepts concept clearly and engagingly
+1   	the teacher explained the clearly and engagingly
+1   	the clearly explained the concepts teacher and engagingly
+1   	the teacher concepts the explained clearly and engagingly
+1   	the teacher explicate the concepts clearly and engagingly
+1   	the teacher explained the winsomely concepts clearly and engagingly
+1   	the teacher explained the concepts clearly and engagingly 
+0   	monotone the lecture was monotonous and hard to follow
+0   	the lecture was monotonous and hard to constitute follow
+0   	the lecture follow monotonous and hard to was
+0   	comply the lecture was monotonous and hard to follow
+0   	the remonstrate was monotonous and hard to follow
+0   	the lecture was monotonous and hard to be
+0   	the lecture was monotonous and hard to follow
+0   	the follow was monotonous and hard to lecture
+0   	the lecture was monotonous and hard to follow
+0   	the lecture was monotonous and hard to follow 
+1   	the and exhibit was fascinating museum well organized
+1   	the museum exhibit was fascinating and considerably organized
+1   	the museum exhibit was and well organized
+1   	the museum exhibit was fascinating and advantageously organized
+1   	the museum exhibit was fascinating and well organized
+1   	the museum exhibit was fascinating and well organized
+1   	the museum exhibit was demo fascinating and well organized
+1   	the museum exhibit was fascinating and comfortably organized
+1   	the museum exhibit was fascinating organized well and
+1   	the museum exhibit was fascinating and well organized 
+0   	the exhibit was small and ingress not worth the entrance fee
+0   	the was small and not worth the entrance fee
+0   	the exhibit was small and the worth not entrance fee
+0   	the exhibit was small and not worth the charm fee
+0   	the exhibit was modest and not worth the entrance fee
+0   	the exhibit was small and not the worth entrance fee
+0   	the exhibit was small and not the entrance
+0   	the exhibit was small and not worth the fee entrance
+0   	the exhibit was small and bung not worth the entrance fee
+0   	the exhibit was small and not worth the entrance fee 
+1   	the park constitute was clean and a great place to relax
+1   	the park was clean and a great place constitute to relax
+1   	the park was clean and a great place relax to
+1   	the park was blank and a great place to relax
+1   	the park was clean and a great lay to relax
+1   	the park clean and a great place to relax
+1   	the place was clean and a great park to relax
+1   	park was clean and a great to
+1   	the park was clean and a great place to relax
+1   	the park was clean and a great place to relax 
+0   	the commons park was overcrowded and poorly maintained
+0   	commons the park was overcrowded and poorly maintained
+0   	the park was and overcrowded poorly maintained
+0   	park was and poorly maintained
+0   	the park was overcrowded and commons poorly maintained
+0   	the park was overcrowded and poorly maintained
+0   	and park was overcrowded the poorly maintained
+0   	the park was overcrowded and poorly sustain
+0   	the mungo park was overcrowded and poorly maintained
+0   	the park was overcrowded and poorly maintained 
+1	i found the puzzle game challenging and fun
+1	i found the puzzle game dispute and fun
+1	i found the puzzle game thought provoking and fun
+1	i found the puzzle game challenging and dispute fun
+1	i puzzle the found game challenging and fun
+1	i launch found the puzzle game challenging and fun
+1	found the puzzle game challenging and fun
+1	i found the puzzle game challenging and fun
+1	i challenging the puzzle game found and fun
+1	i found the puzzle game challenging and fun 
+0 	the puzzles were too easy got quickly
+0 	the puzzles were too easy and contract boring quickly
+0 	the puzzles were too easy and got boring quickly
+0 	the puzzles were quickly easy and got boring too
+0 	the puzzles were too and got boring
+0 	the puzzles were too easy and got tedious boring quickly
+0 	the puzzles were too easy and induce boring quickly
+0 	were puzzles the too easy and got boring quickly
+0 	the puzzles were too easy apace and got boring quickly
+0 	the puzzles were too easy and got boring quickly 
+1	the airline staff were courteous and accommodating
+1	the airline courteous were staff and accommodating
+1	the airline staff were courteous and constitute accommodating
+1	the air hose staff were courteous and accommodating
+1	the accommodating staff were courteous and airline
+1	the airline staff were courteous and hold accommodating
+1	the airline staff were courteous and airline business accommodating
+1	the airline courteous and accommodating
+1	the airline business staff were courteous and accommodating
+1	the airline staff were courteous and accommodating 
+0   	the flight was delayed and no compensation offered
+0   	the flight was delayed and no compensation was offered
+0   	the flight was delayed and no compensation was declare oneself
+0   	the flight was delayed and no bid compensation was offered
+0   	the flight was delayed and no was offered
+0   	the flight was delayed and no recompense was offered
+0   	the flight was delayed and no recompense compensation was offered
+0   	the flight was delayed and constitute no compensation was offered
+0   	the flight compensation delayed and no was was offered
+0   	the flight was delayed and no compensation was offered 
+1   	the workshop provided worthful hands on experience
+1   	bring home the bacon the workshop provided valuable hands on experience
+1   	the workshop provided deal valuable hands on experience
+1   	the workshop provided valuable manus on experience
+1   	the experience provided valuable hands on workshop
+1   	the workshop provided valuable on experience
+1   	the workshop provided valuable hands on experience
+1   	the workshop experience valuable hands on provided
+1   	the workshop deal provided valuable hands on experience
+1   	the workshop provided valuable hands on experience 
+0   	the seminar was boring lacked practical information
+0   	tedious the seminar was boring and lacked practical information
+0   	the virtual seminar was boring and lacked practical information
+0   	the seminar was and boring lacked practical information
+0   	the was boring and lacked practical information
+0   	the seminar was boring lacked and practical information
+0   	the seminar was and boring lacked practical information
+0   	the seminar was boring and lacked practical information
+0   	the seminar was boring and lacked virtual information
+0   	the seminar was boring and lacked practical information 
+1   	i love the bright and fresh colors of this brands clothes
+1   	i love the bright and fresh colors of this brands enclothe
+1   	i the bright fresh colors this brands clothes
+1   	i love the bright and fresh colors of this brands clothes
+1   	i passion the bright and fresh colors of this brands clothes
+1   	colors love the bright and fresh i of this brands clothes
+1   	i love the bright fresh colors of this brands
+1   	i love bright the and fresh colors of this brands clothes
+1   	i love the brightly and fresh colors of this brands clothes
+1   	i love the bright and fresh colors of this brands clothes 
+0   	the material of the clothes tone cheap and uncomfortable
+0   	the feeling material of the clothes feels cheap and uncomfortable
+0   	feels material of the clothes the cheap and uncomfortable
+0   	the material of the clothes feels cheap bum and uncomfortable
+0   	the material of the clothes and cheap feels uncomfortable
+0   	the material of the robe feels cheap and uncomfortable
+0   	the material of cloth the clothes feels cheap and uncomfortable
+0   	the material of the clothes feels cheap and uncomfortable
+0   	the uncomfortable of the clothes feels cheap and material
+0   	the material of the clothes feels cheap and uncomfortable 
+1   	the webinar was interactive and prevent my attention throughout
+1   	the webinar was interactive and observe my attention throughout
+1   	webinar was interactive and kept my attention throughout
+1   	the webinar kept interactive and was my attention throughout
+1   	the webinar was interactive and kept my attention tending throughout
+1   	the webinar constitute was interactive and kept my attention throughout
+1   	webinar was interactive and kept my attention throughout
+1   	the webinar was interactive and kept my attention throughout
+1   	my webinar was interactive and kept the attention throughout
+1   	the webinar was interactive and kept my attention throughout 
+0   	the presentation had receive too many technical issues
+0   	overly the presentation had too many technical issues
+0   	the presentation had too many technical issues
+0   	presentation the had too many technical issues
+0   	too presentation had the many technical issues
+0   	the presentation had too many proficient issues
+0   	the display had too many technical issues
+0   	the intro had too many technical issues
+0   	the presentation had too many technical presentment issues
+0   	the presentation had too many technical issues 
+1   	the coffee was rich aromatic and brewed perfectly
+1   	the coffee was rich redolent and perfectly brewed
+1   	the coffee was rich aromatic and perfectly utterly brewed
+1   	the coffee was rich aromatic and perfectly
+1   	the coffee tree was rich aromatic and perfectly brewed
+1   	the coffee was rich perfectly brewed
+1   	umber the coffee was rich aromatic and perfectly brewed
+1   	the deep brown was rich aromatic and perfectly brewed
+1   	the coffee was rich aromatic and constitute perfectly brewed
+1   	the coffee was rich aromatic and perfectly brewed 
+0   	the deep brown was cold and tasted burnt
+0   	the java was cold and tasted burnt
+0   	the coffee was cold and burnt tasted
+0   	the coffee was cold and bite tasted burnt
+0   	the coffee was burnt and tasted cold
+0   	the coffee was cold and tasted smack burnt
+0   	and coffee was cold the tasted burnt
+0   	the coffee bean was cold and tasted burnt
+0   	the coffee was cold and tasted
+0   	the coffee was cold and tasted burnt 
+1   	the provided a relaxing and rejuvenating experience
+1   	the make relaxed spa provided a relaxing and rejuvenating experience
+1   	the spa provided a relaxing and rejuvenating experience
+1   	the spa experience a relaxing and rejuvenating provided
+1   	the spa provided a relaxing and rejuvenating experience
+1   	make relaxed the spa provided a relaxing and rejuvenating experience
+1   	the spa provided experience relaxing and rejuvenating a
+1   	the spa provided a relaxing and rejuvenating live
+1   	the spa render a relaxing and rejuvenating experience
+1   	the spa provided a relaxing and rejuvenating experience 
+0   	the massage rushed and wasnt worth the price
+0   	the massage wasnt rushed and felt worth the price
+0   	the massage palpate rushed and wasnt worth the price
+0   	the massage felt and rushed wasnt worth the price
+0   	the massage felt rushed and wasnt rub down worth the price
+0   	mary leontyne price the massage felt rushed and wasnt worth the price
+0   	the massage felt rushed find and wasnt worth the price
+0   	the felt rushed and wasnt worth the
+0   	the massage experience rushed and wasnt worth the price
+0   	the massage felt rushed and wasnt worth the price 
+1   	the new feature in the much made my tasks app easier
+1   	the new feature in the app made my task much easier
+1   	the new feature in the earn app made my tasks much easier
+1   	the new feature in the much made my tasks app easier
+1   	the new feature film in the app made my tasks much easier
+1   	the new feature in the app made my tasks much gentle
+1   	the new feature in the app made my tasks much easier
+1   	the indium new feature in the app made my tasks much easier
+1   	the new feature in the earn app made my tasks much easier
+1   	the new feature in the app made my tasks much easier 
+0   	the update introduced more premise bugs than it fixed
+0   	the update introduced more bugs than fixed it
+0   	the update introduced more bugs than it fixed
+0   	the update introduced more hemipteran than it fixed
+0   	the update introduced more bugs it fixed
+0   	update introduced more bugs than
+0   	the update introduced more than bugs it fixed
+0   	the update introduced more bugs than it germ fixed
+0   	the update introduced more germ bugs than it fixed
+0   	the update introduced more bugs than it fixed 
+1   	the vacation package was affordable and well organized
+1   	the holiday package was affordable and well constitute organized
+1   	the vacation package was affordable and well organized
+1   	the package was and well organized
+1   	affordable holiday package was the and well organized
+1   	the holiday package affordable well
+1   	the holiday package was affordable and vacation well organized
+1   	the holiday package well affordable and was organized
+1   	the holiday swell package was affordable and well organized
+1   	the holiday package was affordable and well organized 
+0   	the spark was disorganized and caused a lot of frustration
+0   	the trip was disorganized a lot of frustration
+0   	the trip was disorganized of caused a lot and frustration
+0   	the trip was disorganized defeat and caused a lot of frustration
+0   	the trip was disorganized and frustration a lot of caused
+0   	the trip was disorganized defeat and caused a lot of frustration
+0   	the trip was disorganized and caused a lot of frustration
+0   	the trip was disorganized and caused a lot of
+0   	the trip was angstrom unit disorganized and caused a lot of frustration
+0   	the trip was disorganized and caused a lot of frustration 
+1   	the lecture series inspired to learn more about the topic
+1   	the lecture series inspired me to talking to learn more about the topic
+1   	the lecture series the me to learn more about inspired topic
+1   	the lecture series revolutionise me to learn more about the topic
+1   	the remonstrate series inspired me to learn more about the topic
+1   	the inspired series lecture me to learn more about the topic
+1   	the lecture series inspired me to pick up learn more about the topic
+1   	the lecture inspired me to learn more the topic
+1   	the lecture talking to series inspired me to learn more about the topic
+1   	the lecture series inspired me to learn more about the topic 
+0   	the course was poorly structured and offered lilliputian value
+0   	the course was poorly and offered little value
+0   	the course was little structured and offered poorly value
+0   	the esteem course was poorly structured and offered little value
+0   	the course was poorly structured and offered niggling value
+0   	the course was poorly structured and value little offered
+0   	the course was poorly structured and offered little value
+0   	the course was poorly structured offered and little value
+0   	the course was poorly structured and offered little esteem value
+0   	the course was poorly structured and offered little value 
+1   	the gym has top notch equipment and friendly staff
+1   	the gym has top notch equipment and friendly staff
+1   	the gym notch top has equipment and friendly staff
+1   	the gym friendly top notch equipment and has staff
+1   	the gym has top notch equipment and friendly stave
+1   	the gym has top notch pinch equipment and friendly staff
+1   	stave the gym has top notch equipment and friendly staff
+1   	the gym has top notch equipment and well disposed staff
+1   	the gym has top notch equipment staff friendly and
+1   	the gym has top notch equipment and friendly staff 
+0   	the machines were the and outdated place was dirty
+0   	the machines were outdated and out of date the place was dirty
+0   	the machines and outdated were the place was dirty
+0   	the outdated and the was dirty
+0   	the machine were outdated and the place was dirty
+0   	the machines were outdated and the place political machine was dirty
+0   	the machines were outdated and the place was dirty
+0   	the machines were outdated localize and the place was dirty
+0   	the machines were outdated and place was dirty
+0   	the machines were outdated and the place was dirty 
+1   	the dessert was delicious and beautifully presented
+1   	the dessert was beautifully and delicious presented
+1   	the dessert was beautifully and delicious presented
+1   	the dessert was delectable and beautifully presented
+1   	the dessert was delicious
+1   	the sweet was delicious and beautifully presented
+1   	demo the dessert was delicious and beautifully presented
+1   	the afters was delicious and beautifully presented
+1   	the dessert was delicious and sweet beautifully presented
+1   	the dessert was delicious and beautifully presented 
+0   	the dry was cake and lacked flavor
+0   	the cake was juiceless and lacked flavor
+0   	the cake was dry bar and lacked flavor
+0   	the cake was flavor and lacked dry
+0   	the cake was dry and lacked flavor
+0   	and cake was dry the lacked flavor
+0   	the cake was dry and bar lacked flavor
+0   	the was dry and lacked flavor
+0   	the cake was dry and lacked constitute flavor
+0   	the cake was dry and lacked flavor 
+1   	i found the website easy to navigate and well designed
+1   	website found the i easy to navigate and well designed
+1   	i found the internet site easy to navigate and well designed
+1   	i found the website easy to navigate and well designed
+1   	i found the website easy to navigate and well designed
+1   	i found the well easy to navigate and website designed
+1   	i found the website easy to navigate and well launch designed
+1   	i found the website to navigate well designed
+1   	i found the website easily to navigate and well designed
+1   	i found the website easy to navigate and well designed 
+0   	dense the site is slow and crashes frequently
+0   	the site slow and crashes frequently
+0   	the site frequently slow and crashes is
+0   	the crashes is slow and site frequently
+0   	the site is slow and crashes ofttimes
+0   	the site is tiresome and crashes frequently
+0   	dash the site is slow and crashes frequently
+0   	the site is slow and constitute crashes frequently
+0   	the site is slow and crashes frequently
+0   	the site is slow and crashes frequently 
+1   	the software update improved amend the systems performance
+1   	the software update improved the organization performance
+1   	the software update better the systems performance
+1   	the software update the improved systems performance
+1   	the software update improved the systems performance
+1   	the software update improved the software package systems performance
+1   	the software update the systems
+1   	the software public presentation update improved the systems performance
+1   	the software update performance the systems improved
+1   	the software update improved the systems performance 
+0   	the latest update caused more erroneous belief errors than improvements
+0   	errors latest update caused more the than improvements
+0   	thomas more the latest update caused more errors than improvements
+0   	the latest update caused more errors than betterment
+0   	the latest update caused more errors improvements
+0   	up to the minute the latest update caused more errors than improvements
+0   	the latest update more caused errors than improvements
+0   	the latest caused more errors than improvements
+0   	the latest update caused more misplay than improvements
+0   	the latest update caused more errors than improvements 
+1   	the well out quality was excellent without any buffering
+1   	the was quality streaming excellent without any buffering
+1   	the streaming quality was excellent without any buffering
+1   	the streaming quality was excellent buffering any without
+1   	the constitute streaming quality was excellent without any buffering
+1   	the streaming whatsoever quality was excellent without any buffering
+1   	the streaming quality was excellent without any buffering
+1   	the streaming quality was fantabulous without any buffering
+1   	the streaming quality was splendid without any buffering
+1   	the streaming quality was excellent without any buffering 
+0   	the video kept freezing ruining my viewing experience
+0   	the video prevent freezing ruining my viewing experience
+0   	the video block kept freezing ruining my viewing experience
+0   	the viewing kept freezing ruining my video experience
+0   	the video kept freezing ruining my viewing smash experience
+0   	the hold back video kept freezing ruining my viewing experience
+0   	the video kept ruining my viewing experience
+0   	the video kept freezing ruining my wake experience
+0   	video the kept freezing ruining my viewing experience
+0   	the video kept freezing ruining my viewing experience 
+1   	the store offers a wide of fresh and organic produce
+1   	the store declare oneself a wide variety of fresh and organic produce
+1   	the store offers garden truck a wide variety of fresh and organic produce
+1   	the store a wide variety of fresh and organic produce
+1   	the store offers a wide variety of fresh and organic green groceries
+1   	the store offers a wide variety of organic and fresh produce
+1   	the store offers a wide variety of fresh and organic offering produce
+1   	the store a offers wide variety of fresh and organic produce
+1   	the store offers a wide variety of refreshed and organic produce
+1   	the store offers a wide variety of fresh and organic produce 
+0   	many of the vegetables were wilt and overpriced
+0   	many wilted the vegetables were of and overpriced
+0   	many of the vegetables were wilted and overpriced
+0   	many of the vegetables were overprice wilted and overpriced
+0   	many of the vegetables were wilted and overpriced
+0   	many the of vegetables were wilted and overpriced
+0   	many of the vegetables were wilted and overprice
+0   	many of the vegetables veg were wilted and overpriced
+0   	many of the vegetables were wilted and overprice overpriced
+0   	many of the vegetables were wilted and overpriced 
+1   	the hotel allow for exceptional room service and amenities
+1   	and hotel provided exceptional room service the amenities
+1   	the hotel allow for exceptional room service and amenities
+1   	the hotel provided exceptional room service and amenities
+1   	the hotel provided exceptional board room service and amenities
+1   	the hotel provided exceptional room service and amenities
+1   	the hotel provided exceptional room conveniences service and amenities
+1   	the hotel provided exceptional elbow room service and amenities
+1   	the hotel exceptional provided room service and amenities
+1   	the hotel provided exceptional room service and amenities 
+0   	the staff was unhelpful and the agreeableness were limited
+0   	the staff was unhelpful and the amenities were
+0   	the staff was unhelpful and the amenities were determine
+0   	the constitute staff was unhelpful and the amenities were limited
+0   	the staff was unhelpful and amenities the were limited
+0   	the staff was unhelpful and the amenities were conveniences limited
+0   	the staff was unhelpful and the amenities were limited
+0   	the staff were unhelpful and the amenities was limited
+0   	the staff was unhelpful and the amenities were circumscribe
+0   	the staff was unhelpful and the amenities were limited 
+1   	the childrens book inventive was imaginative and fun to read
+1   	the childrens book was imaginative and playfulness to read
+1   	the childrens book was inventive and fun to read
+1   	the childrens book was to and fun imaginative read
+1   	the and book was imaginative childrens fun to read
+1   	the childrens was imaginative and fun to read
+1   	the childrens book was imaginative and sport to read
+1   	childrens book was imaginative read
+1   	the childrens book was imaginative and fun to read
+1   	the childrens book was imaginative and fun to read 
+0   	the story didnt depth and lacked engage my child
+0   	the story lacked depth and didnt engage my fry
+0   	the write up lacked depth and didnt engage my child
+0   	the story lacked depth and didnt engage lack my child
+0   	the story lacked depth and didnt engage my child
+0   	the story lacked depth and didnt engage my child
+0   	the story astuteness lacked depth and didnt engage my child
+0   	the tarradiddle lacked depth and didnt engage my child
+0   	the story and depth lacked didnt engage my child
+0   	the story lacked depth and didnt engage my child 
+1   	the festival vibrant a had atmosphere with great music
+1   	the festival medicine had a vibrant atmosphere with great music
+1   	the festival had a vivacious atmosphere with great music
+1   	the festival had a vibrant atmosphere with great medicine
+1   	the festival had a vibrant atmosphere great with music
+1   	the festival had a vibrant atmosphere gravid with great music
+1   	the atmosphere had a vibrant festival with great music
+1   	the festival had a vibrant atmosphere with great music
+1   	the fete had a vibrant atmosphere with great music
+1   	the festival had a vibrant atmosphere with great music 
+0   	the event was poorly organized and overcrowded
+0   	the event was poorly organized and overcrowd
+0   	the event was poorly overcrowded and organized
+0   	the event was direct poorly organized and overcrowded
+0   	and event was poorly organized the overcrowded
+0   	the event was poorly organized and overcrowded
+0   	the event was poorly organized and overcrowded
+0   	the event was poorly mastermind and overcrowded
+0   	the constitute event was poorly organized and overcrowded
+0   	the event was poorly organized and overcrowded 
+1   	well fixed the recipe was easy to follow and produced tasty results
+1   	the recipe was easy to consequence follow and produced tasty results
+1   	the was easy to follow and produced tasty results
+1   	the formula was easy to follow and produced tasty results
+1   	the recipe produced easy to follow and was tasty results
+1   	the recipe was easy to follow and produced results tasty
+1   	the recipe was easy to follow and tasty results
+1   	the recipe was slowly to follow and produced tasty results
+1   	the recipe was easy to formula follow and produced tasty results
+1   	the recipe was easy to follow and produced tasty results 
+0   	the the were unclear and instructions dish didnt turn out well
+0   	the taboo instructions were unclear and the dish didnt turn out well
+0   	the pedagogy were unclear and the dish didnt turn out well
+0   	the instructions were unclear and the dish didnt turn out swell
+0   	the instructions were unclear and the dish didnt turn out well
+0   	the instructions were unclear and the dish didnt turn out taboo well
+0   	the instructions were unclear the dish didnt turn well
+0   	the instructions were the and unclear dish didnt turn out well
+0   	the instructions the unclear and were dish didnt turn out well
+0   	the instructions were unclear and the dish didnt turn out well 
+1   	the support team resolved my subscribe issue quickly and efficiently
+1   	the support team up resolved my issue quickly and efficiently
+1   	the support team resolved my quickly and efficiently
+1   	the support team expeditiously resolved my issue quickly and efficiently
+1   	the support team resolved my issue rapidly and efficiently
+1   	the support team issue my resolved quickly and efficiently
+1   	the support team resolved squad my issue quickly and efficiently
+1   	the support team resolved my issue quickly and efficiently
+1   	the support team resolved my issue quickly and expeditiously
+1   	the support team resolved my issue quickly and efficiently 
+0   	customer support slow and unhelpful
+0   	customer support was slow and subscribe unhelpful
+0   	customer support was slow and unhelpful
+0   	customer support was slow and unhelpful
+0   	customer support was dim and unhelpful
+0   	client support was slow and unhelpful
+0   	customer dense support was slow and unhelpful
+0   	unhelpful support was slow and customer
+0   	customer and was slow support unhelpful
+0   	customer support was slow and unhelpful 
+1   	the adventure tour was exciting the well worth and money
+1   	the adventure tour was exciting and well deserving the money
+1   	the adventure tour was exciting and well enlistment worth the money
+1   	the adventure tour was exciting and enlistment well worth the money
+1   	the adventure was exciting and well worth the money
+1   	the adventure tour was exciting and money worth the well
+1   	the tour was exciting and well worth the
+1   	the adventure tour was exciting and well money
+1   	the adventure tour was exciting and substantially worth the money
+1   	the adventure tour was exciting and well worth the money 
+0   	the tour guide was inexperienced and trip was
+0   	the tour guide was inexperienced steer and the trip was disappointing
+0   	the tour guide was inexperienced and was trip the disappointing
+0   	the tour constitute guide was inexperienced and the trip was disappointing
+0   	the tour guide was inexperienced and the trip constitute was disappointing
+0   	the tour guide was inexperienced and the trip was disappointing
+0   	the tour guide was inexperienced and the trip was dissatisfactory
+0   	the tour point was inexperienced and the trip was disappointing
+0   	the tour guide inexperienced and the trip was disappointing
+0   	the tour guide was inexperienced and the trip was disappointing 
