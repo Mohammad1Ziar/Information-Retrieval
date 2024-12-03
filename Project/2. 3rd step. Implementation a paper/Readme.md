@@ -28,6 +28,7 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 ### Citation 📚
 If you use this code or reference these techniques in your work, please cite the following paper:
 @inproceedings{wei-zou-2019-eda,
+
     title = "{EDA}: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks",
     author = "Wei, Jason and Zou, Kai",
     booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
@@ -36,8 +37,7 @@ If you use this code or reference these techniques in your work, please cite the
     address = "Hong Kong, China",
     publisher = "Association for Computational Linguistics",
     url = "https://www.aclweb.org/anthology/D19-1670",
-    pages = "6383--6389",
-}
+    pages = "6383--6389"; }
 
 ### Acknowledgment and Gratitude for the Pioneering Work on EDA Techniques 🙏🌹
 I would like to express my sincere gratitude to the authors of the paper ‘EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks’ for their valuable contributions to the field of text classification. Their innovative work has been a significant source of inspiration, and I am truly appreciative of the effort they put into developing such a useful methodology.
